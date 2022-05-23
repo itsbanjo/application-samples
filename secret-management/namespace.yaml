@@ -2,9 +2,9 @@
 apiVersion: v1
 kind: Namespace
 metadata:
-  name: my-secrets-ch
+  name: secrets-channel
 ---
 apiVersion: v1
 kind: Namespace
 metadata:
-  name: my-secrets
+  name: rhacs-operator
