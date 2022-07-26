@@ -5,6 +5,7 @@ metadata:
   labels:
     name: book-import
 spec:
+  host: book-import.live.integrate.zone
   path: "/"
   to:
     kind: Service
